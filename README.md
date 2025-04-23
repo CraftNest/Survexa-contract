@@ -47,7 +47,7 @@ git fork https://github.com/CraftNest/Survexa-contract.git
 2️⃣ **Clone your fork**
 ```sh
 git clone https://github.com/YOUR_USERNAME/Survexa-contract.git
-cd Survexa
+cd Survexa-contract
 ```
 
 3️⃣ **Create a new branch**
