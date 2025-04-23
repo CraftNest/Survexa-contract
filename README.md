@@ -44,7 +44,7 @@ git fork https://github.com/CraftNest/Survexa.git
 
 2️⃣ **Clone your fork**
 ```sh
-git clone https://github.com/YOUR_USERNAME/Survexa.git
+git clone https://github.com/YOUR_USERNAME/Survexa-contract.git
 cd Survexa
 ```
 
