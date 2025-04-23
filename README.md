@@ -1,6 +1,6 @@
 
 
-```markdown
+
 
 # 🧠 Survexa — Decentralized Survey Platform on StarkNet  
 
@@ -37,9 +37,11 @@ To participate, install a StarkNet-compatible wallet like **ArgentX** or **Braav
 
 We welcome your contributions to Survexa! Follow these steps to get started:
 
-1️⃣ **Fork the repository**  
+1️⃣ **Fork the repository**
+
 ```sh
-git fork https://github.com/CraftNest/Survexa.git
+git fork https://github.com/CraftNest/Survexa-contract.git
+
 ```
 
 2️⃣ **Clone your fork**
